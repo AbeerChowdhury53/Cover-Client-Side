@@ -1,10 +1,21 @@
-# Getting Started with Create React App
+# Welcome To My Assingment-12
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# For Admin  user:  admin@admin.com  Pass: 123456
 
-## Available Scripts
+This project was bootstrapped with [Create React App](https://fir-auth-cb030.firebaseapp.com).
+
+# Project Name 'Your Feeling Our Mug'
+# Here I use firebase Email authintication
+# In Home section I add 5 parts 
+# In dashbord i make many manue as per requerment
+# Its and daynomic website Admin can add product remove produce and update status
+# Here i mantain Admin and normal user
+# Admin can make other user admin etc.
+
 
 In the project directory, you can run:
+
+
 
 ### `npm start`
 
