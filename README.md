@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://fir-auth-cb030.fir
 # Here I use firebase Email authintication
 # In Home section I add 5 parts 
 # In dashbord i make many manue as per requerment
-# Its and daynomic website Admin can add product remove produce and update status
+# Its an daynomic website Admin can add product remove produce and update status
 # Here i mantain Admin and normal user
 # Admin can make other user admin etc.
 
